@@ -1,4 +1,4 @@
 MonBlogSym
 ==========
-
-A Symfony project created on November 5, 2016, 1:44 pm.
+A Simple blog.
+i Used Sympfony to create AN Api and ReacJs to show Comments that refreshes every 3 secondes
